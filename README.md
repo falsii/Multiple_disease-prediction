@@ -5,7 +5,6 @@
 ### Project Members
 1.falsi jasani
 2. jeni lad
-3. njdnfjn
 
 ### Deployment Steps
 Please follow the below steps to run this project.
