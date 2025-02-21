@@ -3,12 +3,9 @@
 > **Abstract** : The designed web app employs the Streamlit Python library for frontend design and communicates with backend ML models to predict the probability of diseases. Multiple Disease Prediction has many machine learning models used in prediction. We will be able to choose the diseases from the navigation bar or a sidebar for which we want to make a prediction using various input values. These input values will be the symptoms, physical health data, or blood test results. We will first trained our model from historic data, so it can make accurate predictions. It's capable of predicting whether someone has Diabetes, Heart issues, Parkinson's, Liver conditions, Hepatitis, Jaundice, and more based on the provided symptoms, medical history, and results.
 
 
-
-
 ### Project Members
-1.falsi jasani
-2. jeni lad
-3. jayesh patel
+1. Falsi jasani
+2. Jeni lad
 
 ### Deployment Steps
 Please follow the below steps to run this project.
